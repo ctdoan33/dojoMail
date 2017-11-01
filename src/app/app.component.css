@@ -1,0 +1,15 @@
+.wrapper{
+	border: 1pt solid black;
+	display: inline-block;
+	padding-bottom: 40px;
+}
+.title{
+	margin-left: 10px;
+}
+.header{
+	text-align: left;
+	padding: 0px 10px 20px 10px;
+}
+.record{
+	padding: 5px 10px;
+}
